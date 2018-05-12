@@ -1,5 +1,8 @@
 _repo: Seitsem-n-veljest-Kertomus_11940
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kivi, Aleksis
@@ -15,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aleksis_Kivi
     - http://fi.wikipedia.org/wiki/Aleksis_Kivi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11940#Seitsem-n-veljest-Kertomus
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
